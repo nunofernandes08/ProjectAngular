@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "3.2"
+    },
+    {
+      "id": 2,
+      "name": "Portatil MAC PRO",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "Iphone XS",
+      "price": 1179
+    },
+    {
+      "name": "Monitor",
+      "price": 200,
+      "id": 4
+    },
+    {
+      "name": "Televisao",
+      "price": 1000,
+      "id": 5
+    },
+    {
+      "name": "iPad",
+      "price": "600",
+      "id": 6
+    }
+  ]
+}
